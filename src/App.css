@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 20px;
+  background-color: rgb(239, 125, 17);
+  width: 400px;
+  height: 400px;
+  margin-top: 0;
+  padding: 0;
+}
+
+.weather {
+  max-width: 4000px;
+  margin: 20px auto;
+}
+
+.weather label {
+  font-weight: bold;
+  margin-right: 5px;
+}
